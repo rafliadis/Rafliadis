@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hai Guys Saya Rafliadis 👋
 
+![Rafliadis](images/foto%20KL.png)
 <!--
 **rafliadis/Rafliadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Miku Nakano](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhycTZ6MW9sMHVweTNkZHJhOWtuY2d4Mmxmb2dlbGx0aWt5enF1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAFz55SI9VZFTWS8tN/giphy.gif)
