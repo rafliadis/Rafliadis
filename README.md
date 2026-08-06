@@ -1,6 +1,5 @@
-## Hai Guys Saya Rafliadis 👋
+## Hai Guys, Rafliadis 👋
 
-![Rafliadis](images/foto%20KL.png)
 <!--
 **rafliadis/Rafliadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
