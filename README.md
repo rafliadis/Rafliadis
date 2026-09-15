@@ -1,4 +1,5 @@
-## Hi there 👋
+## Halo ges, saya Rafliadis😊
+![miku](img/mikunakano.jpg)
 
 <!--
 **rafliadis/Rafliadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![miku](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzh1ZHB3bHl4YTBmZjRjeTFqZmszeTVudWVzc2NsbW5jYWEweDA0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DEFuEpUlHqH1LOujde/giphy.gif)
