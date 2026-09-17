@@ -66,12 +66,13 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
 
 | Project | Deskripsi | Teknologi |
 | :--- | :--- | :--- |
+| **[SI-JAGA](https://github.com/DERRYLEN/SI-JAGA)** | Sistem Informasi Monitoring dan Keamanan (Collaborative Project). | `PHP` `MySQL` `Web` |
 | **Visual Facial Feature Analysis** | Sistem rekomendasi visual berbasis analisis fitur wajah menggunakan CNN. | `Python` `Streamlit` `MobileNetV2` |
 | **Kyu-Pay Payroll System** | Sistem manajemen & penggajian karyawan berbasis web multi-user. | `PHP` `CodeIgniter 4` `MySQL` |
 | **SIMPATIK** | Sistem pelaporan dan manajemen keluhan fasilitas gedung. | `PHP` `MySQL` `Bootstrap` |
 
-
+---
 
 <div align="center">
   <img src="img/mikunakano.jpg" width="400" style="border-radius: 10px;" alt="Miku Nakano Local" />
-  
+</div>
