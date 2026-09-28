@@ -3,10 +3,14 @@
 # 👋 Halo guys, saya Rafliadis
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF007A&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+%26+Mobile+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF007A&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+and+Mobile+Developer;AI+and+Computer+Vision+Enthusiast" alt="Typing SVG" />
 </p>
 
-![Miku Nakano GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpuajVubHd0YWZhamN1ZzYwbTU5M3I0aGpjeWZ1NzZjZDVlbnI4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DEFuEpUlHqH1LOujde/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpuajVubHd0YWZhamN1ZzYwbTU5M3I0aGpjeWZ1NzZjZDVlbnI4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DEFuEpUlHqH1LOujde/giphy.gif" width="300" alt="Miku Nakano GIF 1" />
+  &nbsp;&nbsp;
+  <img src="LINK_GIF_KEDUA_DI_SINI" width="300" alt="Miku Nakano GIF 2" />
+</p>
 
 <br/>
 
@@ -14,7 +18,6 @@
 ![Followers](https://img.shields.io/github/followers/rafliadis?style=for-the-badge&logo=github&color=36bcf7&labelColor=0d1117)
 
 </div>
-
 ---
 
 ### 🚀 Tentang Saya
