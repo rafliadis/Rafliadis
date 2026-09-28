@@ -110,8 +110,10 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafliadis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&icon_color=36bcf7&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliadis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&text_color=c9d1d9" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafliadis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&icon_color=36bcf7&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafliadis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&text_color=c9d1d9" alt="Top Languages" />
+
+</div>
 
 </div>
 
