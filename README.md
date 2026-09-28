@@ -15,15 +15,6 @@
 
 </div>
 
-
-tambahkan satu gif lagi nakank miku
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rafliadis&label=Profile%20Views&color=ff007a&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/rafliadis?style=for-the-badge&logo=github&color=36bcf7&labelColor=0d1117)
-
-</div>
 ---
 
 ### 🚀 Tentang Saya
