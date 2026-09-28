@@ -197,10 +197,3 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff007a,50:a855f7,100:36bcf7&section=footer" alt="footer" width="100%" />
 
 </div>
-  <sub>💖 Terima kasih sudah mampir. Kalau ada proyek menarik, ayo kolaborasi!</sub>
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,24&section=footer" alt="footer" width="100%" />
-
-</div>
