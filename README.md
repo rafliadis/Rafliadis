@@ -89,12 +89,6 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
   [![Live Demo](https://img.shields.io/badge/%E2%9C%A8%20Live%20Demo-ff007a?style=for-the-badge)](https://rafliadis.github.io/5Hanayome/)
   [![Source Code](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github)](https://github.com/rafliadis/5Hanayome)
 
-</div>
-
-<br/><br/>
-
-[![Live Demo](https://img.shields.io/badge/%E2%9C%A8%20Live%20Demo-ff007a?style=for-the-badge)](https://rafliadis.github.io/5Hanayome/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github)](https://github.com/rafliadis/5Hanayome)
 
 </div>
 
