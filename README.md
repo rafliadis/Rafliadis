@@ -1,62 +1,81 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18,24&text=Rafliadis&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Web%20%26%20AI%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,24&text=Rafliadis&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="header" width="100%" />
 
-<a href="https://github.com/rafliadis">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=FF007A&center=true&vCenter=true&width=560&lines=Halo%2C+saya+Rafli+%F0%9F%91%8B;Membangun+web+yang+rapi+%26+fungsional;Belajar+Deep+Learning+%26+Computer+Vision;Penggemar+anime+%F0%9F%8C%B8+Nakano+Quintuplets" alt="typing" />
-</a>
+# 👋 Halo guys, saya Rafliadis
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF007A&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+%26+Mobile+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+</p>
+
+![Miku Nakano](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpuajVubHd0YWZhamN1ZzYwbTU5M3I0aGpjeWZ1NzZjZDVlbnI4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DEFuEpUlHqH1LOujde/giphy.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rafliadis&label=Profile%20Views&color=ff007a&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/rafliadis?style=for-the-badge&logo=github&color=36bcf7&labelColor=0d1117)
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## 🌸 Tentang Saya
+### 🚀 Tentang Saya
 
-Mahasiswa **Teknik Informatika / Software Engineering** yang suka membangun aplikasi web, sistem informasi, dan bereksperimen dengan **AI (Computer Vision & Deep Learning)**.
+Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan aplikasi web, sistem informasi, dan integrasi **Artificial Intelligence (Computer Vision / Deep Learning)**.
 
 <table>
   <tr>
-    <td>🔭 <b>Sedang mengerjakan</b><br/>Sistem informasi & integrasi model AI</td>
-    <td>🧠 <b>Sedang dipelajari</b><br/>CNN, MobileNetV2, Cloud Integration</td>
+    <td>🔭 <b>Sedang Mengerjakan</b><br/>Sistem Informasi & Integrasi Model AI</td>
+    <td>🧠 <b>Fokus Pelajari</b><br/>Deep Learning (CNN), Model Optimization (MobileNetV2), & Cloud Integration</td>
   </tr>
   <tr>
-    <td>💬 <b>Tanya saya soal</b><br/>PHP, Python, MySQL, UI/UX</td>
-    <td>⚡ <b>Fun fact</b><br/>Suka proyek AI kecil & anime/manga</td>
+    <td>💬 <b>Tanya saya tentang</b><br/>PHP (CodeIgniter), Python (Streamlit/FastAPI), MySQL, & UI/UX Design</td>
+    <td>⚡ <b>Fun Fact</b><br/>Suka eksperimen buat project AI sederhana dan penggemar anime/manga!</td>
   </tr>
 </table>
 
-<br/>
+---
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🧰 Tech Stack
+### 🛠️ Bahasa Pemrograman & Teknologi
 
-<div align="center">
+<details open>
+  <summary><b>💻 Web & Mobile Development</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</details>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,js,tailwind,html,css,mysql&theme=dark" alt="web" />
-<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flutter,dart&theme=dark" alt="ai and mobile" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools" />
+<br>
 
-<br/><br/>
+<details open>
+  <summary><b>🤖 Artificial Intelligence & Data Science</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</details>
 
-<sub>
-<code>Streamlit</code> · <code>FastAPI</code> · <code>MobileNetV2</code> · <code>Looker Studio</code>
-</sub>
+<br>
 
-</div>
+<details open>
+  <summary><b>⚙️ Tools & Platforms</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio" />
+</details>
 
-<br/>
+---
 
-<!-- ═══════════════ FEATURED ═══════════════ -->
-## ✨ Featured Project
+### ✨ Featured Project
 
 <div align="center">
 
@@ -69,57 +88,39 @@ Mahasiswa **Teknik Informatika / Software Engineering** yang suka membangun apli
 <a href="https://rafliadis.github.io/5Hanayome/"><img src="https://img.shields.io/badge/%E2%9C%A8%20Live%20Demo-ff007a?style=for-the-badge" alt="Live Demo" /></a>
 <a href="https://github.com/rafliadis/5Hanayome"><img src="https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github" alt="Source" /></a>
 
-<sub>Fan portal <i>The Quintessential Quintuplets</i>: karakter, staff & cast, berita, dan jukebox lagu tema.</sub>
-
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-## 📌 Top Projects
+### 📌 Top Projects
 
-| | Project | Deskripsi | Stack |
-| :-: | :-- | :-- | :-- |
-| 🌸 | **[5Hanayome](https://rafliadis.github.io/5Hanayome/)** | Fan portal anime dengan galeri karakter & jukebox | `Laravel` `Tailwind` `JS` |
-| 🛡️ | **[SI-JAGA](https://github.com/DERRYLEN/SI-JAGA)** | Sistem informasi monitoring & keamanan (kolaborasi) | `PHP` `MySQL` |
-| 🧑‍🎨 | **Visual Facial Feature Analysis** | Rekomendasi visual dari analisis fitur wajah dengan CNN | `Python` `Streamlit` `MobileNetV2` |
-| 💸 | **Kyu-Pay Payroll System** | Manajemen & penggajian karyawan multi-user | `PHP` `CodeIgniter 4` `MySQL` |
-| 🏢 | **SIMPATIK** | Pelaporan & manajemen keluhan fasilitas gedung | `PHP` `MySQL` `Bootstrap` |
+| Project | Deskripsi | Teknologi |
+| :--- | :--- | :--- |
+| **[5Hanayome](https://rafliadis.github.io/5Hanayome/)** | Website fan portal anime *The Quintessential Quintuplets* dengan info karakter, staff & cast, berita, dan jukebox lagu tema. | `Laravel` `PHP` `Tailwind CSS` `JavaScript` |
+| **[SI-JAGA](https://github.com/DERRYLEN/SI-JAGA)** | Sistem Informasi Monitoring dan Keamanan (Collaborative Project). | `PHP` `MySQL` `Web` |
+| **Visual Facial Feature Analysis** | Sistem rekomendasi visual berbasis analisis fitur wajah menggunakan CNN. | `Python` `Streamlit` `MobileNetV2` |
+| **Kyu-Pay Payroll System** | Sistem manajemen & penggajian karyawan berbasis web multi-user. | `PHP` `CodeIgniter 4` `MySQL` |
+| **SIMPATIK** | Sistem pelaporan dan manajemen keluhan fasilitas gedung. | `PHP` `MySQL` `Bootstrap` |
 
-<br/>
+---
 
-<!-- ═══════════════ STATS ═══════════════ -->
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafliadis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&icon_color=36bcf7&text_color=c9d1d9" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliadis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&text_color=c9d1d9" alt="languages" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafliadis&theme=tokyonight&hide_border=true&background=0d1117&ring=ff007a&fire=ff007a&currStreakLabel=36bcf7" alt="streak" />
-
 </div>
 
-<br/>
-
-<!-- ═══════════════ CONNECT ═══════════════ -->
-## 🤝 Mari Terhubung
+---
 
 <div align="center">
+  <img src="img/mikunakano.jpg" width="400" style="border-radius: 10px;" alt="Miku Nakano Local" />
 
-<a href="https://github.com/rafliadis"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://rafliadis.github.io/5Hanayome/"><img src="https://img.shields.io/badge/Portfolio%20Project-ff007a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project" /></a>
+  <br/><br/>
 
-<br/><br/>
+  <sub>💖 Terima kasih sudah mampir. Kalau ada proyek menarik, ayo kolaborasi!</sub>
 
-<img src="img/mikunakano.jpg" width="320" alt="Miku Nakano" style="border-radius: 16px;" />
-
-<br/><br/>
-
-<sub>💖 Terima kasih sudah mampir. Kalau ada proyek menarik, ayo kolaborasi!</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=12,14,18,24&section=footer" alt="footer" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,24&section=footer" alt="footer" width="100%" />
 </div>
