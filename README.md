@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ff007a,50:a855f7,100:36bcf7&text=Rafliadis&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Web%20and%20AI%20Enthusiast&descSize=17&descAlign=50&descAlignY=58&animation=fadeIn&section=header" alt="header" width="100%" />
+
 # 👋 Halo guys, saya Rafliadis
 
 <p align="center">
