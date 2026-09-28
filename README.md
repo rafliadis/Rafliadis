@@ -75,7 +75,6 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
 
 ---
 
-### ✨ Featured Project
 
 <div align="center">
 
