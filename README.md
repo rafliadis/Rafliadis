@@ -8,7 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF007A&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+%26+Mobile+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
 </p>
 
-![Miku Nakano](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpuajVubHd0YWZhamN1ZzYwbTU5M3I0aGpjeWZ1NzZjZDVlbnI4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DEFuEpUlHqH1LOujde/giphy.gif)
+![Miku Nakano GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpuajVubHd0YWZhamN1ZzYwbTU5M3I0aGpjeWZ1NzZjZDVlbnI4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DEFuEpUlHqH1LOujde/giphy.gif)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rafliadis&label=Profile%20Views&color=ff007a&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/rafliadis?style=for-the-badge&logo=github&color=36bcf7&labelColor=0d1117)
@@ -23,12 +25,12 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
 
 <table>
   <tr>
-    <td>🔭 <b>Sedang Mengerjakan</b><br/>Sistem Informasi & Integrasi Model AI</td>
-    <td>🧠 <b>Fokus Pelajari</b><br/>Deep Learning (CNN), Model Optimization (MobileNetV2), & Cloud Integration</td>
+    <td width="50%">🔭 <b>Sedang Mengerjakan</b><br/>Sistem Informasi & Integrasi Model AI</td>
+    <td width="50%">🧠 <b>Fokus Pelajari</b><br/>Deep Learning (CNN), Model Optimization (MobileNetV2), & Cloud Integration</td>
   </tr>
   <tr>
-    <td>💬 <b>Tanya saya tentang</b><br/>PHP (CodeIgniter), Python (Streamlit/FastAPI), MySQL, & UI/UX Design</td>
-    <td>⚡ <b>Fun Fact</b><br/>Suka eksperimen buat project AI sederhana dan penggemar anime/manga!</td>
+    <td width="50%">💬 <b>Tanya saya tentang</b><br/>PHP (CodeIgniter/Laravel), Python (Streamlit/FastAPI), MySQL, & UI/UX Design</td>
+    <td width="50%">⚡ <b>Fun Fact</b><br/>Suka eksperimen buat project AI sederhana dan penggemar anime/manga!</td>
   </tr>
 </table>
 
@@ -75,17 +77,18 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
 
 ---
 
+### 🌟 Featured Project
 
 <div align="center">
 
 <a href="https://rafliadis.github.io/5Hanayome/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafliadis&repo=5Hanayome&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&icon_color=36bcf7" alt="5Hanayome" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafliadis&repo=5Hanayome&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&icon_color=36bcf7" alt="5Hanayome Card" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://rafliadis.github.io/5Hanayome/"><img src="https://img.shields.io/badge/%E2%9C%A8%20Live%20Demo-ff007a?style=for-the-badge" alt="Live Demo" /></a>
-<a href="https://github.com/rafliadis/5Hanayome"><img src="https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github" alt="Source" /></a>
+[![Live Demo](https://img.shields.io/badge/%E2%9C%A8%20Live%20Demo-ff007a?style=for-the-badge)](https://rafliadis.github.io/5Hanayome/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github)](https://github.com/rafliadis/5Hanayome)
 
 </div>
 
@@ -107,19 +110,23 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafliadis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&icon_color=36bcf7&text_color=c9d1d9" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliadis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&text_color=c9d1d9" alt="languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafliadis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&icon_color=36bcf7&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliadis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="img/mikunakano.jpg" width="400" style="border-radius: 10px;" alt="Miku Nakano Local" />
+
+  <img src="img/mikunakano.jpg" width="380" style="border-radius: 12px;" alt="Miku Nakano Local" />
 
   <br/><br/>
 
   <sub>💖 Terima kasih sudah mampir. Kalau ada proyek menarik, ayo kolaborasi!</sub>
 
+  <br/><br/>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,24&section=footer" alt="footer" width="100%" />
+
 </div>
