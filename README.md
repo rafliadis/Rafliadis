@@ -81,14 +81,13 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
 
 <div align="center">
 
-<a href="https://rafliadis.github.io/5Hanayome/">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rafliadis&repo=5Hanayome&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&icon_color=36bcf7" alt="5Hanayome Card" />
-</a>
+  ### 🌸 5Hanayome - Fan Portal Anime
+  <i>Website fan portal anime The Quintessential Quintuplets dengan info karakter, staff & cast, serta jukebox lagu tema.</i>
 
-<br/><br/>
+  <br/><br/>
 
-[![Live Demo](https://img.shields.io/badge/%E2%9C%A8%20Live%20Demo-ff007a?style=for-the-badge)](https://rafliadis.github.io/5Hanayome/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github)](https://github.com/rafliadis/5Hanayome)
+  [![Live Demo](https://img.shields.io/badge/%E2%9C%A8%20Live%20Demo-ff007a?style=for-the-badge)](https://rafliadis.github.io/5Hanayome/)
+  [![Source Code](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github)](https://github.com/rafliadis/5Hanayome)
 
 </div>
 
