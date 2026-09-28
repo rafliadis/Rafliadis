@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,24&text=Rafliadis&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,18,24&text=Rafliadis&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Web%20%26%20AI%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" alt="header" width="100%" />
 
 # 👋 Halo guys, saya Rafliadis
 
@@ -60,14 +60,55 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
       <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
       <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📱 Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+</details>
+
+<br>
 
 <details open>
   <summary><b>🤖 Artificial Intelligence & Data Science</b></summary>
   <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>🧠 AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+      <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🚀 App & Viz</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/Looker_Studio-0d1117?style=flat-square&logo=looker&logoColor=4285F4" alt="Looker Studio" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 </details>
 
 <br>
@@ -75,10 +116,22 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
 <details open>
   <summary><b>⚙️ Tools & Platforms</b></summary>
   <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio" />
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>🔧 Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 </details>
 
 ---
@@ -87,14 +140,24 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
 
 <div align="center">
 
-  ### 🌸 5Hanayome - Fan Portal Anime
-  <i>Website fan portal anime The Quintessential Quintuplets dengan info karakter, staff & cast, serta jukebox lagu tema.</i>
+<a href="https://rafliadis.github.io/5Hanayome/">
+  <img src="https://raw.githubusercontent.com/rafliadis/5Hanayome/main/docs/images/banner.jpg" width="640" alt="5Hanayome" style="border-radius: 12px;" />
+</a>
 
-  <br/><br/>
+### 🌸 5Hanayome · Fan Portal Anime
 
-  [![Live Demo](https://img.shields.io/badge/%E2%9C%A8%20Live%20Demo-ff007a?style=for-the-badge)](https://rafliadis.github.io/5Hanayome/)
-  [![Source Code](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github)](https://github.com/rafliadis/5Hanayome)
+<i>Website fan portal anime The Quintessential Quintuplets dengan info karakter, staff & cast, berita, serta jukebox lagu tema.</i>
 
+<br/>
+
+<img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+
+<br/><br/>
+
+[![Live Demo](https://img.shields.io/badge/%E2%9C%A8%20Live%20Demo-ff007a?style=for-the-badge)](https://rafliadis.github.io/5Hanayome/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github)](https://github.com/rafliadis/5Hanayome)
 
 </div>
 
@@ -104,11 +167,11 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
 
 | Project | Deskripsi | Teknologi |
 | :--- | :--- | :--- |
-| **[5Hanayome](https://rafliadis.github.io/5Hanayome/)** | Website fan portal anime *The Quintessential Quintuplets* dengan info karakter, staff & cast, berita, dan jukebox lagu tema. | `Laravel` `PHP` `Tailwind CSS` `JavaScript` |
-| **[SI-JAGA](https://github.com/DERRYLEN/SI-JAGA)** | Sistem Informasi Monitoring dan Keamanan (Collaborative Project). | `PHP` `MySQL` `Web` |
-| **Visual Facial Feature Analysis** | Sistem rekomendasi visual berbasis analisis fitur wajah menggunakan CNN. | `Python` `Streamlit` `MobileNetV2` |
-| **Kyu-Pay Payroll System** | Sistem manajemen & penggajian karyawan berbasis web multi-user. | `PHP` `CodeIgniter 4` `MySQL` |
-| **SIMPATIK** | Sistem pelaporan dan manajemen keluhan fasilitas gedung. | `PHP` `MySQL` `Bootstrap` |
+| 🌸 **[5Hanayome](https://rafliadis.github.io/5Hanayome/)** | Website fan portal anime *The Quintessential Quintuplets* dengan info karakter, staff & cast, berita, dan jukebox lagu tema. | `Laravel` `PHP` `Tailwind CSS` `JavaScript` |
+| 🛡️ **[SI-JAGA](https://github.com/DERRYLEN/SI-JAGA)** | Sistem Informasi Monitoring dan Keamanan (Collaborative Project). | `PHP` `MySQL` `Web` |
+| 🧑‍🎨 **Visual Facial Feature Analysis** | Sistem rekomendasi visual berbasis analisis fitur wajah menggunakan CNN. | `Python` `Streamlit` `MobileNetV2` |
+| 💸 **Kyu-Pay Payroll System** | Sistem manajemen & penggajian karyawan berbasis web multi-user. | `PHP` `CodeIgniter 4` `MySQL` |
+| 🏢 **SIMPATIK** | Sistem pelaporan dan manajemen keluhan fasilitas gedung. | `PHP` `MySQL` `Bootstrap` |
 
 ---
 
@@ -118,8 +181,6 @@ Mahasiswa Teknik Informatika / Software Engineering yang fokus pada pengembangan
 
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafliadis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&icon_color=36bcf7&text_color=c9d1d9" alt="GitHub Stats" />
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafliadis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff007a&text_color=c9d1d9" alt="Top Languages" />
-
-</div>
 
 </div>
 
